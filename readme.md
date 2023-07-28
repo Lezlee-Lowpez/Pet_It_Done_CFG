@@ -65,9 +65,3 @@ If you want to run our application on your own device please complete the follow
 * [Lesley](https://github.com/Lezlee-Lowpez)📱
 
 
-
-
-The screens for each page, the names of which are self explanatory
-
-### Src Folder 
-Currently just holds the services folder, which handles the database query for the pet / firstName variables. It also has a database config file that may be defunked
